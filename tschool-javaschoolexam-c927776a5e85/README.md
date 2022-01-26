@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/powerlord1990/Test.svg?branch=master)](https://app.travis-ci.com/powerlord1990/Test)
 # README #
 
 This is a repo with T-Systems Java School preliminary examination tasks.
