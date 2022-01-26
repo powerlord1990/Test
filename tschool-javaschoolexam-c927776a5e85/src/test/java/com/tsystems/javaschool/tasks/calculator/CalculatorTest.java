@@ -102,7 +102,7 @@ public class CalculatorTest {
     public void evaluate7() {
         //given
         String input = "22/3*3.0480";
-        String expectedResult = "22.352";
+        String expectedResult = "22,352";
 
         //run
         String result = calc.evaluate(input);
@@ -115,7 +115,7 @@ public class CalculatorTest {
     public void evaluate8() {
         //given
         String input = "22/4*2.159";
-        String expectedResult = "11.8745";
+        String expectedResult = "11,8745";
 
         //run
         String result = calc.evaluate(input);
