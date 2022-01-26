@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/powerlord1990/Test/tree/master.svg?style=svg)](https://circleci.com/gh/powerlord1990/Test/tree/master)
+[![Build Status](https://app.travis-ci.com/powerlord1990/Test.svg?branch=master)](https://app.travis-ci.com/powerlord1990/Test)
 # README #
 
 This is a repo with T-Systems Java School preliminary examination tasks.
