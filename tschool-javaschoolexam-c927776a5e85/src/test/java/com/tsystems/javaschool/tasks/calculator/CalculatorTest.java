@@ -3,6 +3,7 @@ package com.tsystems.javaschool.tasks.calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
+
 public class CalculatorTest {
 
     private Calculator calc = new Calculator();

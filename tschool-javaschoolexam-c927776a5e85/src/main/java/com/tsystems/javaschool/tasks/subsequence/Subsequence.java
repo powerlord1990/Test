@@ -4,6 +4,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * @AUTHOR powerlord1990
+ */
 public class Subsequence {
 
     /**

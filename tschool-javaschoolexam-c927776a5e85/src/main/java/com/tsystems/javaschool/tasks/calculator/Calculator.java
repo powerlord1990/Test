@@ -3,6 +3,9 @@ package com.tsystems.javaschool.tasks.calculator;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
+/**
+ * @AUTHOR powerlord1990
+ */
 public class Calculator {
 
     /**
