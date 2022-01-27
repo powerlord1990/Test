@@ -3,6 +3,7 @@ jdk: oraclejdk8
 
 script: mvn -e verify
 
+version: 2
 notifications:
   email:
     recipients:
